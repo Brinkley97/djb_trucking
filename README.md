@@ -1,6 +1,4 @@
 # DJB Trucking
-
-## About
 DJB Trucking is a sister and brother partnership that employs tractor trailer drivers.
 
 ## Copyright and License
